@@ -1,0 +1,37 @@
+{
+  "format": "wled-led-product",
+  "formatVersion": 3,
+  "uid": "4a31369e-02cb-46ee-a24f-ba3e9c963f8d",
+  "legacyId": null,
+  "rev": 1,
+  "basedOnRev": null,
+  "slug": "test-second",
+  "ref": {
+    "brand": "Test",
+    "model": "Second",
+    "sku": "",
+    "internal": "",
+    "note": ""
+  },
+  "led": {
+    "type": 22,
+    "order": 0,
+    "wswap": 0,
+    "ledma": 55,
+    "skip": 0,
+    "offRefresh": false,
+    "perM": null
+  },
+  "presets": [
+    {
+      "label": "60 px",
+      "px": 60,
+      "default": true
+    }
+  ],
+  "retired": false,
+  "origin": "library",
+  "dirty": false,
+  "updatedAt": 1788879779569,
+  "updatedBy": "captainflo22"
+}
