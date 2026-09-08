@@ -1,0 +1,46 @@
+{
+  "format": "wled-led-product",
+  "formatVersion": 3,
+  "uid": "9b1e3376-1105-44e1-9e1d-31ad7668fd80",
+  "legacyId": null,
+  "rev": 1,
+  "basedOnRev": null,
+  "slug": "tournette",
+  "ref": {
+    "brand": "",
+    "model": "Tournette",
+    "sku": "",
+    "internal": "",
+    "note": ""
+  },
+  "led": {
+    "type": 30,
+    "order": 1,
+    "wswap": 2,
+    "ledma": 55,
+    "skip": 0,
+    "offRefresh": false,
+    "perM": null
+  },
+  "elec": {
+    "volts": [],
+    "wPerM": null,
+    "wPerPx": null,
+    "note": ""
+  },
+  "presets": [
+    {
+      "label": "36 px",
+      "px": 36,
+      "segments": [
+        36
+      ],
+      "default": true
+    }
+  ],
+  "retired": false,
+  "origin": "library",
+  "dirty": false,
+  "updatedAt": 1788881841230,
+  "updatedBy": "captainflo22"
+}
